@@ -18,16 +18,16 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:kibett@ampath.or.ke
-  facebook:kbett68@gmail.com
+  email: kibett@ampath.or.ke
+  facebook: kbett68@gmail.com
   flickr:
   github: corneliouzbett
   instagram:
-  linkedin:https://www.linkedin.com/in/corneliouz-bett-bb2906114
+  linkedin: https://www.linkedin.com/in/corneliouz-bett-bb2906114
   pinterest:
   rss: kip # just type anything here for a working RSS icon
   twitter: corneliouzB
-  stackoverflow:users/6552341/corneliouz-bett # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  stackoverflow: users/6552341/corneliouz-bett # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
 
